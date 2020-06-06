@@ -1,0 +1,101 @@
+{
+    "AppsToKill": [
+        {
+            "AppName": "AVAServer.exe"
+        },
+        {
+            "AppName": "BMAPServer.exe"
+        },
+        {
+            "AppName": "BrainPerfusionServer.exe"
+        },
+        {
+            "AppName": "CalciumScoringServer.exe"
+        },
+        {
+            "AppName": "CardiacViewerServer.exe"
+        },
+        {
+            "AppName": "CCAServer.exe"
+        },
+        {
+            "AppName": "CTViewerServer.exe"
+        },
+        {
+            "AppName": "DentalServer.exe"
+        },
+        {
+            "AppName": "FilmViewServer.exe"
+        },
+        {
+            "AppName": "FunctionalCTServer.exe"
+        },
+        {
+            "AppName": "Generic2DServer.exe"
+        },
+        {
+            "AppName": "LiverServer.exe"
+        },
+        {
+            "AppName": "LungDensityServer.exe"
+        },
+        {
+            "AppName": "LungNodulesServer.exe"
+        },
+        {
+            "AppName": "SpectralServer.exe"
+        },
+        {
+            "AppName": "VCServer.exe"
+        },
+        {
+            "AppName": "Servlethost.exe"
+        },
+        {
+            "AppName": "Servlethost32.exe"
+        },
+        {
+            "AppName": "w3wp.exe"
+        }
+    ],
+
+    "ServicesList": [
+        {
+            "ServiceName":"GfnDicomAccess"
+        },
+        {
+            "ServiceName":"LoggerSvc"
+        },
+        {
+            "ServiceName":"psa"
+        },
+        {
+            "ServiceName":"machine-learning"
+        },
+        {
+            "ServiceName":"E2EService"
+        },
+        {
+            "ServiceName":"GfnApplicationService"
+        },
+        {
+            "ServiceName":"ISPwebsecure"
+        },
+        {
+            "ServiceName":"PortalEventDispatcherService"
+        }
+    ],
+
+    
+    "SystemServicesList":[
+        {
+            "SystemServiceName":"W3SVC"
+        },
+        {
+            "SystemServiceName":"WAS"
+        },
+        {
+            "SystemServiceName":"NetTcpPortSharing"
+        }
+    ]
+}
