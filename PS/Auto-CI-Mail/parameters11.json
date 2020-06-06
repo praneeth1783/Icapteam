@@ -1,0 +1,76 @@
+{
+	"Credentials":{
+		"User":"code1\\320050225",
+		"PassWord":"Admin1cap!",
+		"Project":"ISP11",
+		"BranchName":"RC",
+		"Connector1":"_",
+		"Connector2":"-",
+		"DropPath":"\\\\161.85.111.58\\d$\\Build_Retrival\\ISP11",
+		"ApplicationCount":"12",
+		"StatusCount":"10"
+	},
+	"BuildNames":["NMApps-VNext",
+			"MRApps-VNext",
+			"BLRApps",
+			"HFAApps",
+			"System",
+			"UADEGFN",
+			"Serviceability",
+			"Platform",
+			"SpectralCTApps",
+			"ShinaApps",
+			"BLRGfnApps",
+			"ViewingInfra"
+	],
+	"ReleaseNames":[
+			"NMApps_Release_Test",
+			"MRApps_Release_Test",
+			"BLRApps_Release",
+			"HFAApps_Release",
+			"System_Component_Release",
+			"UADE_Release",
+			"Serviceability_Release",
+			"PF2.0_Release",
+			"SpectralCTApps_Release",
+			"ShinaApps_Release",
+			"BLRGfnApps_Release",
+			"ViewingInfra_Release"
+	],
+	"Matching":[
+		{"Match":": error","Split":"Z"},
+		{"Match":": Error","Split":"Z"},
+		{"Match":"error]","Split":"Z"}
+],
+	"Url":[
+			"\\\\161.85.108.79\\c$\\Automation\\Logs",
+			"\\\\161.85.109.129\\c$\\Automation\\Logs",
+			"\\\\161.85.108.88\\c$\\Automation\\Logs",
+			"\\\\161.85.108.83\\c$\\Automation\\Logs",
+			"\\\\161.85.108.87\\c$\\Automation\\Logs",
+			"\\\\161.85.108.82\\c$\\Automation\\Logs",
+			"Release is in CC-Net Server",
+			"\\\\130.147.95.46\\c$\\Automation\\Logs",
+			"\\\\161.85.111.138\\c$\\Automation\\Logs",
+			"\\\\161.85.108.86\\c$\\Automation\\Logs",
+			" \\\\161.85.108.85\\c$\\Automation\\Logs",
+			"\\\\161.85.108.84\\c$\\Automation\\Logs"
+	],
+	"ApplicationName":["BLR Apps - NM Applications","BLR Apps - MR Applications","Main BLR Apps","HFA Apps","System Components","UADEGFN Applications",
+	"Serviceability","PF 2.0 D&I","Spectral CT Applications ","ShinaApps","BlrGfn Apps","Viewing Infra"],
+	"StatusObtained":[
+		"active",
+			"NA",
+			"succeeded",
+			"rejected",
+			"failed",
+			"canceled",
+			"notStarted",
+			"partiallySucceeded",
+			"inProgress",
+			"completed"
+	],
+	"StatusActual":[
+		"In Progress","Not Started","Succeeded","Failed","Failed","Failed","Not Started","Partially Succeeded","In Progress","Completed"
+	]
+}
